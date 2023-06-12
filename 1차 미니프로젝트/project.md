@@ -1,46 +1,22 @@
-# :pushpin: goQuality
->고퀄리티 개발 컨텐츠 공유 서비스  
->https://go-quality.dev  
-
+# :pushpin: 1차 미니 프로젝트
 </br>
 
 ## 1. 제작 기간 & 참여 인원
-- 2019년 2월 18일 ~ 4월 5일
-- 개인 프로젝트
+- 2023년 2월 13일 ~ 2월 15일
+- 팀 프로젝트
 
 </br>
 
 ## 2. 사용 기술
-#### `Back-end`
-  - Java 8
-  - Spring Boot 2.3
-  - Gradle
-  - Spring Data JPA
-  - QueryDSL
-  - H2
-  - MySQL 5.7
-  - Spring Security
-  - Jsoup
-#### `Front-end`
-  - Vue.js 3.0
-  - Element UI
+- python
 
 </br>
 
-## 3. ERD 설계
-![](https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/final_erd.png)
+## 3. 개요
+- 서울시 생활정보 데이터로 대중교통 수요분석
+- 생활정보데이터(인구, 상권) 기반 -> 대중교통(버스) 수요 분석
 
-
-## 4. 핵심 기능
-이 서비스의 핵심 기능은 컨텐츠 등록 기능입니다.  
-사용자는 단지 컨텐츠의 카테고리를 선택하고, URL만 입력하면 끝입니다.  
-이 단순한 기능의 흐름을 보면, 서비스가 어떻게 동작하는지 알 수 있습니다.  
-
-<details>
-<summary><b>핵심 기능 설명 펼치기</b></summary>
-<div markdown="1">
-
-### 4.1. 전체 흐름
+## 4. 비즈니스 이해 단계
 ![](https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/flow1.png)
 
 ### 4.2. 사용자 요청
