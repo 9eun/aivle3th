@@ -22,7 +22,7 @@
 ---
 
 
-### 2. [두 번째 프로젝트](https://github.com/9eun/aivle3th/blob/main/2%EC%B0%A8%20%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/project.md)
+### 2. [2차 미니프로젝트](https://github.com/9eun/aivle3th/blob/main/2%EC%B0%A8%20%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/project.md)
 >기상환경데이터와 머신러닝을 활용한 미세먼지농도 예측 모델        
 >개발 기간: 2023.3.06 ~ 2023.3.08
 >  
@@ -31,12 +31,10 @@
 
 ---
 
-### 3. [세 번째 프로젝트]()
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+### 3. [3차 미니프로젝트](https://github.com/9eun/aivle3th/blob/main/3%EC%B0%A8%20%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/project.md)
+>개발 기간: 2023.3.20 ~ 2023.3.24  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+> 파이썬 
+
+---
