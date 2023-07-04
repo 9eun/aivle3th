@@ -13,14 +13,13 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [1차 미니프로젝트](https://github.com/9eun/aivle3th/tree/main/1%EC%B0%A8%20%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+### 1. [1차 미니프로젝트](https://github.com/9eun/aivle3th/blob/main/1%EC%B0%A8%20%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/project.md)
 >서울시 생활정보 데이터로 대중교통 수요분석
 >개발 기간: 2023.2.13 ~ 2023.2.15  
 >  
 >기술 스택:  
 >python
 >  
-> [프로젝트 상세 설명](https://github.com/9eun/aivle3th/tree/main/1%EC%B0%A8%20%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 ---
 
