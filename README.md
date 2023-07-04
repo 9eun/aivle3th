@@ -20,7 +20,7 @@
 >기술 스택:  
 >python
 >  
->[프로젝트 상세 설명]([https://github.com/Integerous/goQuality](https://github.com/9eun/aivle3th/tree/main/1%EC%B0%A8%20%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)) 참고
+> [프로젝트 상세 설명](https://github.com/9eun/aivle3th/tree/main/1%EC%B0%A8%20%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 ---
 
