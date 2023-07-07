@@ -66,7 +66,7 @@
 ##### 2-2단계 : 동적 동작 세부 분류
 - 전처리                  
 ![image](https://github.com/9eun/aivle3th/assets/113655865/4a7d696c-3d5f-4758-bc04-05149bcb1e13)
-- Sequential
+- Sequential                      
 ![image](https://github.com/9eun/aivle3th/assets/113655865/a9efdeb5-290f-4e47-925d-7d71e8fe7d3e)
 ![image](https://github.com/9eun/aivle3th/assets/113655865/587806a9-7556-40ec-b803-45223db34756)
 
