@@ -1,4 +1,4 @@
-# :pushpin: 5차 미니 프로젝트
+![image](https://github.com/9eun/aivle3th/assets/113655865/e383415b-d098-409e-ba32-2c2f84a9edd8)# :pushpin: 5차 미니 프로젝트
 </br>
 
 ## 1. 제작 기간 
@@ -45,12 +45,33 @@
 #### 4.2.3 데이터 전처리
 - Label 추가 : data 에 Activity_0 를 추가
  ![image](https://github.com/9eun/aivle3th/assets/113655865/2d029195-f488-4a6e-b3b2-767eb55931ab)
-  ![image](https://github.com/9eun/aivle3th/assets/113655865/c1b8fe32-36a1-4183-80ec-a017ca5541e8)
+![image](https://github.com/9eun/aivle3th/assets/113655865/c1b8fe32-36a1-4183-80ec-a017ca5541e8)
 
 #### 4.2.4 단계별 모델링
 ![image](https://github.com/9eun/aivle3th/assets/113655865/7545f7fd-66a4-4c5d-978a-8db0e1218489)
+##### 1단계
+- LogisticRegression              
+![image](https://github.com/9eun/aivle3th/assets/113655865/23f512d1-5781-4130-9cc8-5f2be7e5a2cf)
+- Sequential                   
+![image](https://github.com/9eun/aivle3th/assets/113655865/9d15c215-c8cd-4ba9-8f4d-38ef93269477)
+![image](https://github.com/9eun/aivle3th/assets/113655865/fb43c733-f1d6-4002-b987-54654510c668)
 
+##### 2-1단계 : 정적 동작 세부 분류
+- 전처리             
+![image](https://github.com/9eun/aivle3th/assets/113655865/b6d59354-11c3-487e-8858-426f730b54cd)
+- Sequential                         
+![image](https://github.com/9eun/aivle3th/assets/113655865/bdd9dd97-0769-425d-9c89-ad3070d77dca)
+![image](https://github.com/9eun/aivle3th/assets/113655865/eb94a8c9-3074-4e54-a30a-09f8e507ed00)
 
+##### 2-2단계 : 동적 동작 세부 분류
+- 전처리                  
+![image](https://github.com/9eun/aivle3th/assets/113655865/4a7d696c-3d5f-4758-bc04-05149bcb1e13)
+- Sequential
+![image](https://github.com/9eun/aivle3th/assets/113655865/a9efdeb5-290f-4e47-925d-7d71e8fe7d3e)
+![image](https://github.com/9eun/aivle3th/assets/113655865/587806a9-7556-40ec-b803-45223db34756)
+
+##### 3단계: 예측 결과 합치기
+![image](https://github.com/9eun/aivle3th/assets/113655865/e72a0760-5f9e-4986-9c4b-e8973b9bfa68)
 
 </br>
 
