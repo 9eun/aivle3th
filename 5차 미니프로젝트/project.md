@@ -1,4 +1,4 @@
-![image](https://github.com/9eun/aivle3th/assets/113655865/e383415b-d098-409e-ba32-2c2f84a9edd8)# :pushpin: 5차 미니 프로젝트
+pushpin: 5차 미니 프로젝트
 </br>
 
 ## 1. 제작 기간 
