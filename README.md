@@ -56,3 +56,11 @@
 
 ---
 
+### 6. [6차 미니프로젝트](https://github.com/9eun/aivle3th/blob/main/6%EC%B0%A8%20%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/project.md)
+>챗봇 서비스 개발    
+>개발 기간: 2023.4.17 ~ 2023.4.20일
+>  
+>기술 스택:  
+> 파이썬 
+
+---
