@@ -17,7 +17,7 @@
 </br>
 
 ## 4. 프로젝트 내용
-![image](https://github.com/9eun/aivle3th/assets/113655865/a0bb90b4-6ca2-468f-ad0a-6fad5c8dca5d)  
+
 ### 4.1 데이터 분석
 ![image](https://github.com/9eun/aivle3th/assets/113655865/5e698e4a-fb62-4e02-8884-c5dbae85d616)
 
