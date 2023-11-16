@@ -7,10 +7,6 @@
 
 </br>
 
-## :pushpin: Contact
-- 이메일: geun6808@naver.com 
-- 깃헙: https://github.com/9eun
-</br>
 
 ## :pushpin: Projects
 ### 1. [1차 미니프로젝트](https://github.com/9eun/aivle3th/blob/main/1%EC%B0%A8%20%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/project.md)
