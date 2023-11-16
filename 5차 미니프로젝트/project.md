@@ -29,49 +29,53 @@
 관점8 : Walking_downstairs 여부 구분
 각각의 관점별 기본모델(Random forest)생성한 후 변수 중요도 확인 후 변수 저장
 - 예시)
-![image](https://github.com/9eun/aivle3th/assets/113655865/37c7f5c2-f4a7-487d-b5ce-cb29c0374831)
-![image](https://github.com/9eun/aivle3th/assets/113655865/c867c9e6-463d-48ae-b655-1dae4ed57350)
+![image](https://github.com/9eun/aivle3th/assets/113655865/23e74090-bc98-41d4-a73e-c9b7348c1a93)
+![image](https://github.com/9eun/aivle3th/assets/113655865/dc06d461-6a47-4630-b794-6f94a41ce6b7)
 
 ### 4.2. 모델 학습 및 결과
 #### 4.2.1. 데이터 전처리
 - LabelEncoder로 스케일링 진행
 #### 4.2.2. 기본 모델링
 - LogisticRegression         
-  ![image](https://github.com/9eun/aivle3th/assets/113655865/fefefb39-bed6-4819-a00a-2f399d87f1fb)
+![image](https://github.com/9eun/aivle3th/assets/113655865/a9fd58e5-2dbe-4d32-a1a5-621b84063ecf)
 - Sequential     
-  ![image](https://github.com/9eun/aivle3th/assets/113655865/8b99eef7-e0e7-4adf-9cc8-4fe882384422)
-  ![image](https://github.com/9eun/aivle3th/assets/113655865/aabacc02-7eb4-4cee-9297-a7d3fb82bbb5)
+![image](https://github.com/9eun/aivle3th/assets/113655865/3bc29db2-12de-4f75-a7a2-310ecf3cf909)
+![image](https://github.com/9eun/aivle3th/assets/113655865/43090b66-f1b4-4927-8afd-86b3b9f6f617)
 
 #### 4.2.3 데이터 전처리
 - Label 추가 : data 에 Activity_0 를 추가
- ![image](https://github.com/9eun/aivle3th/assets/113655865/2d029195-f488-4a6e-b3b2-767eb55931ab)
-![image](https://github.com/9eun/aivle3th/assets/113655865/c1b8fe32-36a1-4183-80ec-a017ca5541e8)
+![image](https://github.com/9eun/aivle3th/assets/113655865/52a83bdb-654e-495b-a202-ffe24d34d6a8)
+![image](https://github.com/9eun/aivle3th/assets/113655865/53037fdb-1887-481e-81ba-5cdd5b34ce6c)
 
 #### 4.2.4 단계별 모델링
-![image](https://github.com/9eun/aivle3th/assets/113655865/7545f7fd-66a4-4c5d-978a-8db0e1218489)
+![image](https://github.com/9eun/aivle3th/assets/113655865/72b67874-11f0-4e6e-9903-593bf36b4672)
+
 ##### 1단계
 - LogisticRegression              
-![image](https://github.com/9eun/aivle3th/assets/113655865/23f512d1-5781-4130-9cc8-5f2be7e5a2cf)
+![image](https://github.com/9eun/aivle3th/assets/113655865/b0c96a92-de3e-4459-88ca-4f1e72dbe69f)
+
 - Sequential                   
-![image](https://github.com/9eun/aivle3th/assets/113655865/9d15c215-c8cd-4ba9-8f4d-38ef93269477)
-![image](https://github.com/9eun/aivle3th/assets/113655865/fb43c733-f1d6-4002-b987-54654510c668)
+![image](https://github.com/9eun/aivle3th/assets/113655865/a09a7b36-0df6-4bb8-a0db-8991912cdb38)
+![image](https://github.com/9eun/aivle3th/assets/113655865/9d390d7b-24f9-44fb-a1f6-6dbaeebdc4fc)
 
 ##### 2-1단계 : 정적 동작 세부 분류
 - 전처리             
-![image](https://github.com/9eun/aivle3th/assets/113655865/b6d59354-11c3-487e-8858-426f730b54cd)
+![image](https://github.com/9eun/aivle3th/assets/113655865/c60cf1e0-717c-4894-b2bd-41fefe812e40)
+
 - Sequential                         
-![image](https://github.com/9eun/aivle3th/assets/113655865/bdd9dd97-0769-425d-9c89-ad3070d77dca)
-![image](https://github.com/9eun/aivle3th/assets/113655865/eb94a8c9-3074-4e54-a30a-09f8e507ed00)
+![image](https://github.com/9eun/aivle3th/assets/113655865/1e170b65-c34d-4ffc-babb-5f03125c6419)
+![image](https://github.com/9eun/aivle3th/assets/113655865/d3ebcc26-c681-437d-aa01-e9663c009960)
 
 ##### 2-2단계 : 동적 동작 세부 분류
 - 전처리                  
-![image](https://github.com/9eun/aivle3th/assets/113655865/4a7d696c-3d5f-4758-bc04-05149bcb1e13)
+![image](https://github.com/9eun/aivle3th/assets/113655865/c1b4bf85-e168-4e26-82e9-7d63edcf7eed)
+
 - Sequential                      
-![image](https://github.com/9eun/aivle3th/assets/113655865/a9efdeb5-290f-4e47-925d-7d71e8fe7d3e)
-![image](https://github.com/9eun/aivle3th/assets/113655865/587806a9-7556-40ec-b803-45223db34756)
+![image](https://github.com/9eun/aivle3th/assets/113655865/da267367-f139-4ce8-a1ae-33330a4b6083)
+![image](https://github.com/9eun/aivle3th/assets/113655865/006765a8-0fed-4c7d-a62e-9f22d847ed8a)
 
 ##### 3단계: 예측 결과 합치기
-![image](https://github.com/9eun/aivle3th/assets/113655865/e72a0760-5f9e-4986-9c4b-e8973b9bfa68)
+![image](https://github.com/9eun/aivle3th/assets/113655865/29275e51-6577-4010-8ea4-451dc43e0b9c)
 
 </br>
 
