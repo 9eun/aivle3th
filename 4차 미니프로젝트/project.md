@@ -20,20 +20,21 @@
 
 ### 4.1 데이터 분석
 - 데이터 분석 및 시각화
-![image](https://github.com/9eun/aivle3th/assets/113655865/3f2c5188-900d-4140-a15c-9b51ac505223)
-
+![image](https://github.com/9eun/aivle3th/assets/113655865/186bbfd5-3d9b-4725-82c5-5181a161912b)
 
 ### 4.2. 데이터 전처리
-![image](https://github.com/9eun/aivle3th/assets/113655865/1f537c5b-6521-4189-899e-4d98dea2297e)  
-![image](https://github.com/9eun/aivle3th/assets/113655865/27ba4260-d67c-45ff-be71-5620cb0709be)
-![image](https://github.com/9eun/aivle3th/assets/113655865/87840359-72b9-43a8-ae1e-797d8fd06104)
-![image](https://github.com/9eun/aivle3th/assets/113655865/d0f8470d-3442-4080-95c3-c8c521f510da)
+![image](https://github.com/9eun/aivle3th/assets/113655865/0d14c14f-b4f0-400a-916d-5e003c62bf70)
+![image](https://github.com/9eun/aivle3th/assets/113655865/e0313d44-90e2-4b98-b7b1-6fe5548f94de)
+![image](https://github.com/9eun/aivle3th/assets/113655865/27b7fd3a-927a-4c17-8574-e3271e87c4f3)
+![image](https://github.com/9eun/aivle3th/assets/113655865/dcafb829-79d3-4e0a-8a86-ace31855f228)
+
 ### 4.3. 모델 학습 및 결과
-![image](https://github.com/9eun/aivle3th/assets/113655865/849e0ae9-19de-408f-afd0-8f91cafdfa9e)
-![image](https://github.com/9eun/aivle3th/assets/113655865/1256d829-04d3-4045-af26-4b3166077c73)
-![image](https://github.com/9eun/aivle3th/assets/113655865/54a945ff-d75b-4a05-bce6-9abecd62614c)
-![image](https://github.com/9eun/aivle3th/assets/113655865/e31c51da-703b-4eed-93ec-8cf7a88e9de6)
-![image](https://github.com/9eun/aivle3th/assets/113655865/b395c9af-7a21-467f-9d90-2cc82dee30d5)
+![image](https://github.com/9eun/aivle3th/assets/113655865/ad75bd56-0e33-489d-b0d8-17f718dbaa02)
+![image](https://github.com/9eun/aivle3th/assets/113655865/3436fb8e-58e0-46be-81d7-aea765e2577b)
+![image](https://github.com/9eun/aivle3th/assets/113655865/e16ea722-f77e-4727-854d-74ed11dad47c)
+![image](https://github.com/9eun/aivle3th/assets/113655865/4c5e5f4c-6c88-4498-8127-f9f46f9af00b)
+![image](https://github.com/9eun/aivle3th/assets/113655865/f281c05f-7b36-4501-aa54-1714c51c899e)
+
 
 </br>
 
