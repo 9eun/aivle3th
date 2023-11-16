@@ -19,21 +19,22 @@
 ## 4. 프로젝트 내용
 
 ### 4.1 데이터 분석
-![image](https://github.com/9eun/aivle3th/assets/113655865/5e698e4a-fb62-4e02-8884-c5dbae85d616)
+![image](https://github.com/9eun/aivle3th/assets/113655865/f7b8e381-d640-4ca6-9561-44aa1d701014)
 
 ### 4.2. 데이터 전처리
-![image](https://github.com/9eun/aivle3th/assets/113655865/c913e16f-6b94-491e-b025-b4400ecc8a35)
+![image](https://github.com/9eun/aivle3th/assets/113655865/4c526921-f91a-40e2-81f5-ed7e87d3900c)
 
 ### 4.3. 머신러닝 모델링
-![image](https://github.com/9eun/aivle3th/assets/113655865/d0dab77f-c433-4649-bb7e-57da2e1e3264)
+![image](https://github.com/9eun/aivle3th/assets/113655865/6daa47d7-f2fb-4adb-8dda-0fbb9789701d)
+
 
 
 ### 4.4. 결과
 - RandomForestClassifier: 
-![image](https://github.com/9eun/aivle3th/assets/113655865/38f9c294-d73d-4485-8d3e-0ecb60a44d56)
+![image](https://github.com/9eun/aivle3th/assets/113655865/2af2883c-1348-430e-99bb-8ba013e2b690)
 
 - XGBoost: 캐글 submit 결과 0.91점대 도출
-![image](https://github.com/9eun/aivle3th/assets/113655865/b3ec98f2-a706-429e-9f0c-8ee6507f3b18)
+![image](https://github.com/9eun/aivle3th/assets/113655865/f9818a2e-6c07-4b18-9810-828b547036bc)
 
 >> 모델의 파라미터 조절 및 전처리를 통한 데이터 정제가 결과값에 가장 큰 영향을 미친다.
 
