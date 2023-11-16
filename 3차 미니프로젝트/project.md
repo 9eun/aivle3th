@@ -13,7 +13,7 @@
 
 ## 3. 개요
 - 저시력자를 위한 원화 화폐 분류
-
+![image](https://github.com/9eun/aivle3th/assets/113655865/a0bb90b4-6ca2-468f-ad0a-6fad5c8dca5d)  
 </br>
 
 ## 4. 프로젝트 내용
