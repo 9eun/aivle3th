@@ -24,7 +24,7 @@
 - mecab 형태소 분석기를 이용하여 tokenize
 ![image](https://github.com/9eun/aivle3th/assets/113655865/7a7423e5-de77-4f29-b79b-c9242d445397)
 
-- Wodr2Vec을 이용하여 임베딩벡터 생성
+- Word2Vec을 이용하여 임베딩벡터 생성
 ![image](https://github.com/9eun/aivle3th/assets/113655865/ed66ba0c-a7a7-428c-8f31-7b24f6b2e42e)
 
 
